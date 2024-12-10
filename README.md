@@ -1,2 +1,5 @@
-# ML_Final_Proj
-CS 5540 ML Final Project
+# Database Systems Final Projcet
+CS 6540 Final Project
+
+To execute this file use the runscript provided in the course package on silk server, and run the file Satterthwaite_Kumar_Airport_CS5040_Final.sql on the SQL server as follows :
+@runscript Satterthwaite_Kumar_Airport_CS5040_Final
